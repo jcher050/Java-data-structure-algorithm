@@ -1,2 +1,3 @@
 # Java-data-structure---algorithm
- java f=data structures notes 
+ java data structures and algorythm notes
+notes 
